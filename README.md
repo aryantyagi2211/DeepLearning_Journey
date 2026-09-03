@@ -22,7 +22,22 @@ Went deep into:
 - Transfer learning
 - **Object Detection**: R-CNN family (R-CNN, Fast R-CNN, Faster R-CNN) and SSD (Single Shot Detector) — how region proposals work, ROI pooling, anchor boxes, and how detection differs from plain classification
 
-### 3. Transformer
+### 3. RNN & LSTM
+Covered the full architecture in depth:
+- What RNN Actually Does, The Memory Box Idea (Diagram), What Is Fading?, Real Example — Fading in Action
+- LSTM — The Smarter Memory (Diagram), LSTM Concept — Simple Words, LSTM Math — Worked Example by Hand
+
+### 4. NLP
+Covered the full architecture in depth:
+Topic 1: Text Preprocessing
+Topic 2: Text Representation (Basic)
+Topic 3: Word Embeddings
+Topic 4: Sequence Modeling Context
+Topic 5: NLP Tasks (Classical)
+Topic 6: Language Models (N-gram)
+Topic 7: Evaluation Metrics
+
+### 5. Transformer
 Covered the full architecture in depth:
 - Self-attention and multi-head attention (hand-calculated, not just conceptual)
 - The complete Transformer pipeline worked through with real numbers, end-to-end
@@ -31,8 +46,6 @@ Covered the full architecture in depth:
 
 ## 🔜 What's next
 
-- **RNN** — sequence modeling, hidden states, backprop through time
-- **NLP** — text preprocessing, embeddings, classic NLP techniques before going full LLM
 - **LLM** — how large language models are built on top of the Transformer foundation
 - **Fine-tuning** — adapting pretrained models for custom tasks
 
